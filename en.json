@@ -1,5 +1,6 @@
 {
-  "basket.addToBasket": "Add to cart",
   "basket.cancel": "Cancel",
-  "basket.confirm": "Confirm"
+  "basket.close": "Close",
+  "basket.confirm": "Confirm",
+  "basket.expand": "Enlarge"
 }

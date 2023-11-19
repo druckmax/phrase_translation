@@ -1,5 +1,7 @@
 {
-  "basket.addToBasket": "Zum Warenkorb hinzufügen",
   "basket.cancel": "Abbrechen",
-  "basket.confirm": "Bestätigen"
+  "basket.close": "Schließen",
+  "basket.confirm": "Bestätigen",
+  "basket.expand": "Vergrößern",
+  "test.test": "Wird getestet"
 }
