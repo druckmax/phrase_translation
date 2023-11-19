@@ -7,7 +7,7 @@ phrase:
     sources:
     - file: ./<locale_name>.json
       params:
-        locale_id: en
+        locale_id: de
   pull:
     targets:
     - file: ./<locale_name>.json
