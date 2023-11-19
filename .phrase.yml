@@ -7,6 +7,7 @@ phrase:
             params:
                 file_format: simple_json
                 locale_id: en
+                
     pull:
         targets:
             - file: ./<locale_name>.json
